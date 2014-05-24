@@ -2,7 +2,7 @@ Grunts
 =============
 A Grunt.js task suite that automates development, testing, and building rich javascript websites.
 
-#### Tasks
+### Tasks
 `grunt work` compiles sass, runs jshint, and runs browserify all on relevant file changes.
 
 `grunt test` builds the javascript test suite runner and executes via phantomjs
